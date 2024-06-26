@@ -4,7 +4,7 @@
 
 
 ## About Me
-I'm a software developer, with extensive expertise in web development .Regularly plays with machine learning.
+I'm a software developer, with extensive expertise in web development. Regularly plays with machine learning.
 <!-- Previously I used to work at [DigitalDose Technologoes](https://www.digitaldose.com/) -->
 
 ❄️ A self-taught Developer and always a student of life.
