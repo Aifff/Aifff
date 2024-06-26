@@ -4,10 +4,10 @@
 
 
 ## About Me
-I'm an software developer, with  .Regularly plays with machine learning. .
+I'm a software developer, with extensive expertise in web development .Regularly plays with machine learning. .
 <!-- Previously I used to work at [DigitalDose Technologoes](https://www.digitaldose.com/) -->
 
-❄️ I'm a self-taught Developer and always a student of life.
+❄️ A self-taught Developer and always a student of life.
 ## 📫 Find me at:
 
 <table>
@@ -23,14 +23,15 @@ I'm an software developer, with  .Regularly plays with machine learning. .
 
   ![Java](https://img.shields.io/badge/java-%2300ADD8.svg?style=for-the-badge&logo=java&logoColor=white)
   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/javascript-%2300ADD8.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/javascript-%2300ADD8.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2300ADD8.svg?style=for-the-badge&logo=react&logoColor=blue)
+  ![Firebase](https://img.shields.io/badge/firebase-%2300ADD8.svg?style=for-the-badge&logo=firebase&logoColor=white)
+  
 
 
 * Backend Frameworks
 
   ![Express](https://img.shields.io/badge/express-%23092E20.svg?style=for-the-badge&logo=express&logoColor=white)
-
-
 
 * Database
 
@@ -40,6 +41,11 @@ I'm an software developer, with  .Regularly plays with machine learning. .
   ![sql](https://img.shields.io/badge/sql-%2307405e.svg?&style=for-the-badge&logo=sql&logoColor=white)
   ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+* Design and wireframing
+  ![Figma](https://img.shields.io/badge/figma-%2300ADD8.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+  
 
 <!-- * CI/CD
   
