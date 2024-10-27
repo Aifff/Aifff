@@ -4,7 +4,8 @@
 
 
 ## About Me
-I'm a software developer, with extensive expertise in web development. Regularly plays with machine learning.
+I'm a software developer, with fluency in Java based applications and web development. Exploring and contributing in the world of Machine Learning, data science and their wonderful applications.
+You'll usually find me humming to 'Finite Simple Group of order 2'
 <!-- Previously I used to work at [DigitalDose Technologoes](https://www.digitaldose.com/) -->
 
 ❄️ A self-taught Developer and always a student of life.
